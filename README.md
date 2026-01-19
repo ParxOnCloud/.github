@@ -88,5 +88,5 @@ license terms.
 
 ## Contact
 
-📧 support@parxoncloud.com  
+📧 contact@parxoncloud.com  
 🌐 © 2025 ParxOnCloud Tech Solutions
