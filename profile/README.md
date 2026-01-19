@@ -40,7 +40,7 @@ Unless explicitly stated otherwise, repositories are licensed under the
 - 💼 Commercial use requires prior written permission
 
 For commercial licensing or enterprise usage inquiries, contact:  
-📧 **support@parxoncloud.com**
+📧 **contact@parxoncloud.com**
 
 ---
 
